@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Phrase Book</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Setting</string>
+    <string name="favourit">Favourit</string>
+
+    <string name="font_type_default">18</string>
+    <string name="defination">Defination</string>
+    <string name="synonyms_words">Synonyms Words</string>
+    <string name="synonyms">Synonyms:</string>
+    <string name="word">Word</string>
+    <string name="example">Example:</string>
+    <string name="example_words">Example_word</string>
+    <string name="version">Phrase Book v 1.0</string>
+    <string name="description_of_app"><b>Phrase Book</b> is English to Bangla phrases dictionary app. All common phrases, idioms, and appropriate preposition are included in this dictionary.
+Phrase Book is developed by English-bangla.com</string>
+<string name="contact"> E-mail: &lt;a href="http://english.bangla.com@gmail.com"> english-bangla.com@gmail.com &lt;/a></string>
+        <string name="addon">For any query please contact us through above e-mail address.</string>
+    <string name="interstitial_ad_unit_id">ca-app-pub-8471623365486761/5774730205</string>
+    <string name="copy_right">© All right reserved by English-bangla.com</string>
+    <string-array name="font_types">
+
+        <item>Roboto</item>
+        <item>Noto Serif</item>
+    </string-array>
+</resources>
